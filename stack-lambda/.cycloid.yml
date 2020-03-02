@@ -1,6 +1,7 @@
 # Configuration of the CI pipeline
 name: 'My lambda stack'
 canonical: 'stack-lambda'
+status: 'public'
 description: 'Demo stack which create an AWS lambda with terraform'
 keywords:
   - 'aws'
