@@ -1,0 +1,7 @@
+env: test
+project: snowy
+customer: test11
+
+# Code repo configuration
+code_git_public_repository: hhttps://github.com/syuo7/docs-step-by-step-stack.git
+code_git_branch: code
